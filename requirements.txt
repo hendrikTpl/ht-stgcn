@@ -1,0 +1,12 @@
+pyyaml
+argparse
+numpy
+pandas
+h5py
+opencv-python
+imageio
+scikit-video
+torch
+torchvision
+#Pillow==6.2.2
+#python3.7
