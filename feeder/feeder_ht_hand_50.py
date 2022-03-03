@@ -14,7 +14,7 @@ from torchvision import datasets, transforms
 from . import tools
 
 
-class Feeder_ht_hand_50(torch.utils.data.Dataset):
+class Feeder_hand_50(torch.utils.data.Dataset):
     """ Feeder for skeleton-based action recognition in kinetics-skeleton dataset
     Arguments:
         data_path: the path to '.npy' data, the shape of data should be (N, C, T, V, M)
@@ -39,7 +39,7 @@ class Feeder_ht_hand_50(torch.utils.data.Dataset):
                  window_size=-1,
                  pose_matching=False,
                  num_person_in=5,
-                 num_person_out=2,
+                 num_person_out=1,
                  debug=False):
         self.debug = debug
         self.data_path = data_path
@@ -73,8 +73,9 @@ class Feeder_ht_hand_50(torch.utils.data.Dataset):
         has_skeleton = np.array(
             [label_info[id]['has_skeleton'] for id in sample_id])
 
-        print("============ contoh =========================")
+        print("=====check a few sample of label data =====")
         print("label: {} has_skeleton:{}".format(self.label[0:10],has_skeleton[0:10])) #ini
+        print("====================================================")
 
         # ignore the samples which does not has skeleton sequence
         if self.ignore_empty_sample:
@@ -88,6 +89,7 @@ class Feeder_ht_hand_50(torch.utils.data.Dataset):
         self.T = 75  #frame
         self.V = 50  #joint
         self.M = self.num_person_out  #person
+        print("Maximum T frames:{}, Number of joint (V):{}, Number of person taken:{}".format(self.T, self.V, self.M))
 
     def __len__(self):
         return len(self.sample_name)
