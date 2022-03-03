@@ -9,7 +9,7 @@ from numpy.lib.format import open_memmap
 
 sys.path.append(
     os.path.abspath(os.path.join(os.path.dirname(__file__), os.path.pardir)))
-from feeder.feeder_ht_hand_50 import Feeder_ht_hand_50
+from feeder.feeder_ht_hand_50 import Feeder_hand_50
 
 toolbar_width = 30
 
@@ -35,10 +35,10 @@ def gendata(
         data_out_path,
         label_out_path,
         num_person_in=5,  #observe the first 5 persons 
-        num_person_out=2,  #then choose 2 persons with the highest score 
+        num_person_out=1,  #then choose 2 persons with the highest score 
         max_frame=75):
 
-    feeder = Feeder_ht_hand_50(
+    feeder = Feeder_hand_50(
         data_path=data_path,
         label_path=label_path,
         num_person_in=num_person_in,
@@ -77,8 +77,8 @@ if __name__ == '__main__':
 
     part = ['train', 'val']
     for p in part:
-        data_path = '{}/{}'.format(arg.data_path, p)
-        label_path = '{}/{}_label.json'.format(arg.data_path, p)
+        data_path = '{}/ht_hand_50_{}'.format(arg.data_path, p)
+        label_path = '{}/ht_hand_50_{}_label.json'.format(arg.data_path, p)
         data_out_path = '{}/{}_data.npy'.format(arg.out_folder, p)
         label_out_path = '{}/{}_label.pkl'.format(arg.out_folder, p)
 
