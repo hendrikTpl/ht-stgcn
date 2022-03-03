@@ -1,0 +1,392 @@
+{
+    "22_upper_10_Move2": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_11_Assemble2": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "22_upper_12_Reach2": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "22_upper_13_Grasp3": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "22_upper_14_Move3": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_15_Assemble3": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "22_upper_16_Reach3": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "22_upper_17_Grasp4": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "22_upper_18_Move4": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_19_Assemble4": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "22_upper_1_Grasp0": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "22_upper_20_Reach4": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "22_upper_21_Grasp5": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "22_upper_22_Move5": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_23_Assemble5": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "22_upper_24_Reach5": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "22_upper_25_Grasp6": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "22_upper_26_Move6": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_27_Position0": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "22_upper_28_Use0": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "22_upper_29_Position1": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "22_upper_2_Move0": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_30_Use1": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "22_upper_31_Position2": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "22_upper_32_Use2": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "22_upper_33_Position3": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "22_upper_34_Use3": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "22_upper_35_Position4": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "22_upper_36_Use4": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "22_upper_37_Move7": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_38_Release0": {
+        "has_skeleton": true,
+        "label": "Release",
+        "label_index": 6
+    },
+    "22_upper_39_Reach6": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "22_upper_3_Assemble0": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "22_upper_4_Reach0": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "22_upper_5_Grasp1": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "22_upper_6_Move1": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "22_upper_7_Assemble1": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "22_upper_8_Reach1": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "22_upper_9_Grasp2": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "28_upper_10_Move2": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_11_Assemble2": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "28_upper_12_Reach2": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "28_upper_13_Grasp3": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "28_upper_14_Move3": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_15_Assemble3": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "28_upper_16_Reach3": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "28_upper_17_Grasp4": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "28_upper_18_Move4": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_19_Assemble4": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "28_upper_1_Grasp0": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "28_upper_20_Reach4": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "28_upper_21_Grasp5": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "28_upper_22_Move5": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_23_Assemble5": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "28_upper_24_Reach5": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "28_upper_25_Grasp6": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "28_upper_26_Move6": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_27_Position0": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "28_upper_28_Use0": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "28_upper_29_Position1": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "28_upper_2_Move0": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_30_Use1": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "28_upper_31_Position2": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "28_upper_32_Use2": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "28_upper_33_Position3": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "28_upper_34_Use3": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "28_upper_35_Position4": {
+        "has_skeleton": true,
+        "label": "Position",
+        "label_index": 4
+    },
+    "28_upper_36_Use4": {
+        "has_skeleton": true,
+        "label": "Use",
+        "label_index": 5
+    },
+    "28_upper_37_Move7": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_38_Release0": {
+        "has_skeleton": true,
+        "label": "Release",
+        "label_index": 6
+    },
+    "28_upper_39_Reach6": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "28_upper_3_Assemble0": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "28_upper_4_Reach0": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "28_upper_5_Grasp1": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    },
+    "28_upper_6_Move1": {
+        "has_skeleton": true,
+        "label": "Move",
+        "label_index": 2
+    },
+    "28_upper_7_Assemble1": {
+        "has_skeleton": true,
+        "label": "Assemble",
+        "label_index": 3
+    },
+    "28_upper_8_Reach1": {
+        "has_skeleton": true,
+        "label": "Reach",
+        "label_index": 0
+    },
+    "28_upper_9_Grasp2": {
+        "has_skeleton": true,
+        "label": "Grasp",
+        "label_index": 1
+    }
+}
